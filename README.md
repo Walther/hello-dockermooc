@@ -6,7 +6,16 @@ Written in [Rust](https://rust-lang.org/) and utilizing [Tide](https://github.co
 
 ## Usage
 
-To build and run manually, use
+To build and run using compose,
+
+```
+# start
+docker-compose up
+# cleanup
+docker-compose down
+```
+
+To build and run manually,
 
 ```
 # start
