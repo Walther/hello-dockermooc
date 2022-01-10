@@ -16,3 +16,4 @@ jobs:
           heroku_email: "veeti.haapsamo@gmail.com"
           usedocker: true
           branch: main
+          region: eu
