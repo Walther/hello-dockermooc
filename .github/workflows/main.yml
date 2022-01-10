@@ -15,3 +15,4 @@ jobs:
           heroku_app_name: "hello-dockermooc"
           heroku_email: "veeti.haapsamo@gmail.com"
           usedocker: true
+          remote_branch: main
